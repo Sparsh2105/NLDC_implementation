@@ -1,0 +1,11 @@
+pandas>=2.1
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+statsmodels>=0.14
+linearmodels>=6.0
+scikit-learn>=1.4
+PyYAML>=6.0
+libpysal>=4.10
+esda>=2.6
+spreg>=1.8

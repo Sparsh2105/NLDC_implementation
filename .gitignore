@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pyc
+data/panel_raw.csv
+outputs/*
+!outputs/.gitkeep
